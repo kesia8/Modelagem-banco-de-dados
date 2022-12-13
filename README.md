@@ -1,6 +1,6 @@
 <h1>Banco De Dados Resilia Educação </h1>
 
-
+<img align ="center" width= "120%" src = "projetomodulo4.png">  
 <br>
 
 <b>Desafio:</b>
@@ -22,12 +22,21 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br>
 
 > + Existem outras entidades além dessas três?
-<br></br>
+<br>
 > + Quais são os principais campos e tipos?
-<br></br>
+<br>
 > + Como essas entidades estão relacionadas?
 
+<br><br>
+
+<b>Respostas</b>
+
 <br>
+
+> + Sim, pois de
+> + 
+> + muitos para muitos
+
 
 <b>Conhecimentos Adquiridos</b>
 
@@ -36,7 +45,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 > Criação de Bancos De Dados
 <br></br>
 > Utilização da ferramenta mySQL
-<br></br>
+<br>/br>
 > Consultas e Queries no banco de dados
 
 <br>
@@ -46,5 +55,4 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br>
 
 > mySQL
-> <br>
-> wamp server
+
