@@ -1,6 +1,6 @@
 <h1>Banco de dados (MySQL)-Projeto Individual Módulo 4</h1>
 
-<img align ="center" width= "120%" src = "modelagembd.png" alt>  
+<img align ="center" width= "120%" src = "modelagem.png" alt>  
 <br>
 
 <b>Desafio:</b>
